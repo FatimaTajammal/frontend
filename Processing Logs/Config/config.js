@@ -1,0 +1,1 @@
+config = '{"protocol":"https://", "port":":8081", "url" : "/api/ancerainput/v1/GetAllProcessingLogs"}';
